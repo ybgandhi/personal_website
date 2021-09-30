@@ -605,6 +605,16 @@
 }
 .fa-github-square:before {
   content: "\f092";
+  align-content: center;
+  padding: 10px;
+  font-size: 30px;
+  width: auto;
+  text-align: center;
+  text-decoration: none;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  color: #fff;
 }
 .fa-upload:before {
   content: "\f093";
