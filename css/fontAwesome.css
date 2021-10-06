@@ -653,6 +653,17 @@
 }
 .fa-github:before {
   content: "\f09b";
+  align-content: center;
+  padding: 10px;
+  font-size: 30px;
+  width: auto;
+  text-align: center;
+  text-decoration: none;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  color: #fff;
+}
 }
 .fa-unlock:before {
   content: "\f09c";
