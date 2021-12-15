@@ -605,16 +605,6 @@
 }
 .fa-github-square:before {
   content: "\f092";
-  align-content: center;
-  padding: 10px;
-  font-size: 30px;
-  width: auto;
-  text-align: center;
-  text-decoration: none;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  color: #fff;
 }
 .fa-upload:before {
   content: "\f093";
@@ -636,16 +626,6 @@
 }
 .fa-twitter:before {
   content: "\f099";
-  align-content: center;
-  padding: 10px;
-  font-size: 30px;
-  width: auto;
-  text-align: center;
-  text-decoration: none;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  color: #fff;
 }
 .fa-facebook-f:before,
 .fa-facebook:before {
@@ -653,16 +633,6 @@
 }
 .fa-github:before {
   content: "\f09b";
-  align-content: center;
-  padding: 10px;
-  font-size: 30px;
-  width: auto;
-  text-align: center;
-  text-decoration: none;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  color: #fff;
 }
 .fa-unlock:before {
   content: "\f09c";
@@ -833,15 +803,6 @@
 }
 .fa-linkedin:before {
   content: "\f0e1";
-  padding: auto;
-  font-size: 30px;
-  width: auto;
-  text-align: center;
-  text-decoration: none;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  color: #fff;
 }
 .fa-rotate-left:before,
 .fa-undo:before {
@@ -1256,16 +1217,6 @@
 }
 .fa-instagram:before {
   content: "\f16d";
-  align-content: center;
-  padding: auto;
-  font-size: 30px;
-  width: auto;
-  text-align: center;
-  text-decoration: none;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  color: #fff;
 }
 .fa-flickr:before {
   content: "\f16e";
@@ -1688,15 +1639,6 @@
 }
 .fa-at:before {
   content: "\f1fa";
-  padding: 10px;
-  font-size: 30px;
-  width: auto;
-  text-align: center;
-  text-decoration: none;
-  display: flex !important;
-  align-items: center !important;
-  justify-content: center !important;
-  color: #fff;
 }
 .fa-eyedropper:before {
   content: "\f1fb";
