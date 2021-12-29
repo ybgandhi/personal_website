@@ -717,7 +717,7 @@ nav a:hover::before {
 
 .fourth-content .container-fluid h2{
 	color: blue;
-	background-color: #fff;
+	background-color: transparent;
 	text-align: left;
 	font-size: 24px;
 	text-transform: uppercase;
@@ -779,16 +779,15 @@ nav a:hover::before {
     position: absolute;
     text-align: left;
     width: 100%;
-    top: 50%;
+    top: 55%;
     left: 0;
-    padding: 30px;
+    padding: 10px;
 }
 
 .fourth-content .item .hover-effect h2 {
 	font-size: 18px;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #fff;
 	letter-spacing: 0.5px;
 	border-bottom: 1px solid #fff;
 	display: inline-block;
@@ -798,10 +797,10 @@ nav a:hover::before {
 }
 
 .fourth-content .item .hover-effect p {
-	font-size: 13px;
+	font-size: 8px;
 	text-transform: uppercase;
 	letter-spacing: 0.5px;
-	line-height: 22px;
+	line-height: auto;
 	padding-bottom: 0px;
 	margin-bottom: 0px;
 }
