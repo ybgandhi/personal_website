@@ -640,7 +640,6 @@ jQuery(document).ready(function($){
 }));
 
 
-
 (function($){
     
     // DECLARE METHODS
